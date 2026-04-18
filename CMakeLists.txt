@@ -7,5 +7,6 @@ add_executable(laba5 main.cpp
         Dish.cpp
         Dish.h
         Customer.cpp
-        Customer.h)
+        Customer.h
+        Customer.cpp)
 
