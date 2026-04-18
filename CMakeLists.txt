@@ -8,5 +8,6 @@ feature-Sofiia
         Dish.cpp
         Dish.h
         Customer.cpp
-        Customer.h)
+        Customer.h
+        Customer.cpp)
 
