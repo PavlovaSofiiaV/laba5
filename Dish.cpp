@@ -3,7 +3,7 @@
 #include <string>
 using namespace std;
 
-Dish::Dish() : Dish("Софія", 0.0, 0.0) {}
+Dish::Dish() : Dish("Ruslana", 0.0, 0.0) {}
 Dish::Dish(string name) : name(name), price(0.0), weight(0.0) {}
 Dish::Dish(string name, double price) {
     this->name = name;
