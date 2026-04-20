@@ -1,6 +1,6 @@
 #include <iostream>
 
 int main() {
-    std::cout << "Change by Sofiia" << std::endl;
+    std::cout << "Sofiko" << std::endl;
     return 0;
 }
